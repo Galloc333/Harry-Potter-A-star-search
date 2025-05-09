@@ -27,3 +27,8 @@ Wizards navigate through a grid-based world with passable and impassable regions
 git clone https://github.com/<yourusername>/harry-potter-a-star-search.git
 cd harry-potter-a-star-search
 python check.py
+
+## 👨‍💻 Author
+
+Gal Ofir  
+[LinkedIn Profile](https://www.linkedin.com/in/gal-ofir-341283210/)
