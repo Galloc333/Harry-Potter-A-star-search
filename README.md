@@ -22,13 +22,15 @@ Wizards navigate through a grid-based world with passable and impassable regions
 - **problems.py**: Defined problem instances used for testing.
 - **HW1.pdf**: Detailed description of the homework task and the problem environment.
 
+## 👨‍💻 Author
+
+Gal Ofir  
+[LinkedIn Profile](https://www.linkedin.com/in/gal-ofir-341283210/)
+
 ## 🛠️ Installation & Running
 ```bash
 git clone https://github.com/<yourusername>/harry-potter-a-star-search.git
 cd harry-potter-a-star-search
 python check.py
 
-## 👨‍💻 Author
 
-Gal Ofir  
-[LinkedIn Profile](https://www.linkedin.com/in/gal-ofir-341283210/)
